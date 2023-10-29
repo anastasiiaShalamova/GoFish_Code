@@ -1,6 +1,8 @@
 package GoFish;
 import java.util.*;
 
+// Anastasiia
+
 public class DeckClass implements Deck {
     private List<Card> cards = new ArrayList<>();
 

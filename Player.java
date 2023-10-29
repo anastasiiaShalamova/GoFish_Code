@@ -1,6 +1,7 @@
 package GoFish;
-
 import java.util.List;
+
+// Anastasiia
 
 public interface Player {
 	String getName();

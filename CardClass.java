@@ -1,5 +1,7 @@
 package GoFish;
 
+// Bryna
+
 public class CardClass implements Card {
 	public String rank;
 	public String suit;

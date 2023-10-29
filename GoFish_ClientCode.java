@@ -1,8 +1,9 @@
 package GoFish;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+// both Bryna and Anastasiia
 
 public class GoFish_ClientCode {
     public static void main(String[] args) {

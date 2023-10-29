@@ -1,5 +1,7 @@
 package GoFish;
 
+// Bryna
+
 public interface Game {
 	void startGame();
 	boolean isGameOver();

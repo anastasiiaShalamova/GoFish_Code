@@ -1,6 +1,8 @@
 package GoFish;
 import java.util.*;
 
+// Anastasiia
+
 public class ComputerPlayer implements Player {
     private String name;
     private List<Card> hand;
